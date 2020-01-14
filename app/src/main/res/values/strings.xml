@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tarea1Unidad01_LeydiHuallpa</string>
+    <string name="opcion1">EJERCICIO 1</string>
+    <string name="opcion2">EJERCICIO 2</string>
+    <string name="Salir">Salir</string>
+    <string name="tituloAplicacion">Tarea1</string>
+
 </resources>
